@@ -1,0 +1,83 @@
+{
+	"nama":	"Mifan Twan Ardana",
+	"image": "./img/favicon/icon.png",
+	"jobs":	"Web & Apps Crafter",
+	"portofolio":[
+			{
+				"img":"https://s3-us-west-2.amazonaws.com/svgporn.com/logos/html-5.svg",
+				"title":"html5",
+				"desc":"bla bla bla"
+			},
+			{
+				"img":"https://s3-us-west-2.amazonaws.com/svgporn.com/logos/css-3.svg",
+				"title":"css3",
+				"desc":"bla bla bla"
+			},
+			{
+				"img":"https://s3-us-west-2.amazonaws.com/svgporn.com/logos/javascript.svg",
+				"title":"javascript",
+				"desc":"bla bla bla"
+			},
+			{
+				"img":"https://s3-us-west-2.amazonaws.com/svgporn.com/logos/sass.svg",
+				"title":"sass",
+				"desc":"bla bla bla"
+			},
+			{
+				"img":"https://s3-us-west-2.amazonaws.com/svgporn.com/logos/mysql.svg",
+				"title":"MySQL",
+				"desc":"bla bla bla"
+			},
+			{
+				"img":"https://s3-us-west-2.amazonaws.com/svgporn.com/logos/npm.svg",
+				"title":"NPM",
+				"desc":"bla bla bla"
+			},
+			{
+				"img":"https://s3-us-west-2.amazonaws.com/svgporn.com/logos/codeigniter.svg",
+				"title":"Codeigniter",
+				"desc":"bla bla bla"
+			},
+			{
+				"img":"https://s3-us-west-2.amazonaws.com/svgporn.com/logos/react.svg",
+				"title":"React",
+				"desc":"bla bla bla"
+			}
+		],
+	"quote": "bla bla bla",
+	"address":	"Web & Apps Crafter",
+	"social":[
+			{
+				"icon":"html5",
+				"link":"bla bla bla"
+			},
+			{
+				"icon":"html5",
+				"link":"bla bla bla"
+			},
+			{
+				"icon":"html5",
+				"link":"bla bla bla"
+			},
+			{
+				"icon":"html5",
+				"link":"bla bla bla"
+			},
+			{
+				"icon":"html5",
+				"link":"bla bla bla"
+			},
+			{
+				"icon":"html5",
+				"link":"bla bla bla"
+			},
+			{
+				"icon":"html5",
+				"link":"bla bla bla"
+			},
+			{
+				"icon":"html5",
+				"link":"bla bla bla"
+			}
+		]
+}
